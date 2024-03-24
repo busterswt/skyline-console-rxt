@@ -15,8 +15,8 @@
 module.exports = {
   // 'primary-color': '#0068FF',
   // 'link-color': '#0068FF',
-  'primary-color': '#6E34EB',
-  'link-color': '#6E34EB',
+  'primary-color': '#FF4545',
+  'link-color': '#FF4545',
   // 'link-hover-color': '#005ADE',
   // 'link-active-color': '005ADE',
   'success-color': '#57E39B',
@@ -24,8 +24,8 @@ module.exports = {
   'error-color': '#EB354D',
   // 'btn-default-color': '#0068FF',
   // 'btn-default-border': '#0068FF',
-  'btn-default-color': '#6E34EB',
-  'btn-default-border': '#6E34EB',
+  'btn-default-color': '#FF4545',
+  'btn-default-border': '#FF4545',
   'border-radius-base': '4px',
   'font-size-base': '12px',
 };
