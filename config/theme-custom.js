@@ -13,14 +13,19 @@
 // limitations under the License.
 
 module.exports = {
-  'primary-color': '#0C63FA',
-  'link-color': '#0C63FA',
-  'success-color': '#52C41A',
-  'warning-color': '#FAAD14',
-  'error-color': '#D40000',
-  'btn-default-color': '#0C63FA',
-  'btn-default-border': '#0C63FA',
-  'border-color-base': '#E8E8EA',
-  'border-radius-base': '2px',
+  // 'primary-color': '#0068FF',
+  // 'link-color': '#0068FF',
+  'primary-color': '#6E34EB',
+  'link-color': '#6E34EB',
+  // 'link-hover-color': '#005ADE',
+  // 'link-active-color': '005ADE',
+  'success-color': '#57E39B',
+  'warning-color': '#979797',
+  'error-color': '#EB354D',
+  // 'btn-default-color': '#0068FF',
+  // 'btn-default-border': '#0068FF',
+  'btn-default-color': '#6E34EB',
+  'btn-default-border': '#6E34EB',
+  'border-radius-base': '4px',
   'font-size-base': '12px',
 };
